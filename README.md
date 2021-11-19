@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehdad-hussain
 - 👀 I’m interested in opp
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react, node-js, react native, nosql DB...
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
