@@ -87,7 +87,6 @@ const tooling = {
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdad-hussain&layout=compact&langs_count=8&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdad-hussain&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -109,11 +108,18 @@ const tooling = {
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out through any of the platforms above!
 
 <div align="center">
-
-### "Building tomorrow's web, one commit at a time" 
-
-![Profile Views](https://komarev.com/ghpvc/?username=mehdad-hussain&color=38B2AC)
-
+  <h3>"Building tomorrow's web, one commit at a time"</h3>
+  
+<!-- Option 2: Using shields.io with GitHub profile views -->
+<img src="https://img.shields.io/github/watchers/mehdad-hussain/mehdad-hussain?style=social"/>
+  
+  <!-- GitHub followers -->
+  <img src="https://img.shields.io/github/followers/mehdad-hussain?label=Followers&style=social" alt="GitHub followers"/>
+  
+  <!-- GitHub stars -->
+  <img src="https://img.shields.io/github/stars/mehdad-hussain?style=social" alt="GitHub stars"/>
 </div>
+
+---
 
 ![Footer](./github-footer.svg)
