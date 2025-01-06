@@ -15,7 +15,7 @@
   <circle cx="700" cy="100" r="40" fill="#4169E1" opacity="0.3"/>
   
   <!-- Text Elements -->
-  <text x="50" y="80" fill="#ffffff" font-family="Arial" font-size="40" font-weight="bold">Mehdad Hussain</text>
+  <text x="50" y="80" fill="#ffffff" font-family="Arial" font-size="40" font-weight="bold">Md. Mahadad Hussain</text>
   <text x="50" y="120" fill="#38B2AC" font-family="Arial" font-size="24">Full-Stack Developer</text>
   <text x="50" y="150" fill="#cccccc" font-family="Arial" font-size="16">Building the future with modern web technologies</text>
 </svg>
