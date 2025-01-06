@@ -83,20 +83,18 @@ const tooling = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehdad-hussain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdad-hussain&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdad-hussain&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-name&theme=tokyonight)](https://github.com/your-username/your-repo-name)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mehdad-hussain&repo=your-repo-name&theme=tokyonight)](https://github.com/mehdad-hussain/your-repo-name)
 
 </div>
 
@@ -114,7 +112,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 ### "Building tomorrow's web, one commit at a time" 
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=38B2AC)
+![Profile Views](https://komarev.com/ghpvc/?username=mehdad-hussain&color=38B2AC)
 
 </div>
 
