@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a4a4a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Rectangle -->
+  <rect width="800" height="200" fill="url(#grad1)"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="650" cy="50" r="30" fill="#38B2AC" opacity="0.5"/>
+  <circle cx="700" cy="100" r="40" fill="#4169E1" opacity="0.3"/>
+  
+  <!-- Text Elements -->
+  <text x="50" y="80" fill="#ffffff" font-family="Arial" font-size="40" font-weight="bold">Mehdad Hussain</text>
+  <text x="50" y="120" fill="#38B2AC" font-family="Arial" font-size="24">Full-Stack Developer</text>
+  <text x="50" y="150" fill="#cccccc" font-family="Arial" font-size="16">Building the future with modern web technologies</text>
+</svg>
