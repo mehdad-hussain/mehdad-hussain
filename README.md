@@ -1,75 +1,121 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
+![Banner](./github-banner.svg)
 
-[comment]: <![banner](https://your-banner-image-link-here)>
+<div align="center">
+  
+# Welcome to My Digital Universe! 👨‍💻
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mehdad-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdad-hussain-38988725a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussain.mehdad1@gmail.com)
 
-## 🚀 About Me
+</div>
 
-I'm a passionate **Full-Stack Developer** with expertise in:
-- **Frontend**: JavaScript, React, Next.js, Angular
-- **Backend**: Node.js, Hono.js, Prisma ORM, Drizzle ORM
-- **Database**: PostgreSQL, Neon
-- **UI/UX**: Tailwind CSS, ShadCN UI
+## 🎯 Professional Summary
 
-I love building highly scalable and interactive web applications using modern tools and frameworks. My recent focus includes:
-- Leveraging **Next.js 14 App Router**
-- Implementing **React Server Components**
-- Exploring AI/ML integrations with **OpenAI** and **LangChain**
+> "Code is like humor. When you have to explain it, it's bad." 
 
----
+Passionate Full-Stack Developer specializing in building scalable, performant web applications. With expertise spanning the entire development stack, I craft elegant solutions that prioritize user experience and technical excellence.
 
-## 🛠️ Tech Stack
+### 🎓 Current Focus
+- Architecting applications with **Next.js 14 App Router**
+- Implementing **React Server Components** for optimal performance
+- Exploring AI/ML integrations using **OpenAI** and **LangChain**
+- Building robust backend systems with **Node.js** and **Go**
 
-**Languages**: 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## 💻 Technical Arsenal
 
-**Frontend**: 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<details>
+<summary>🎨 Frontend Ecosystem</summary>
 
-**Backend**: 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+```javascript
+const frontend = {
+  languages: ['JavaScript', 'TypeScript'],
+  frameworks: {
+    primary: ['React', 'Next.js'],
+    additional: ['Angular', 'Vue.js'],
+    mobile: ['React Native']
+  },
+  styling: ['Tailwind CSS', 'ShadCN UI'],
+  stateManagement: [
+    'Zustand',
+    'Redux Toolkit',
+    'TanStack Query',
+    'Pinia',
+    'Signal Store',
+    'RxJS'
+  ]
+}
+```
+</details>
 
-**Databases**: 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<details>
+<summary>⚙️ Backend Mastery</summary>
 
-**State Management**: 
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+```javascript
+const backend = {
+  runtime: ['Node.js', 'Go'],
+  frameworks: ['Hono.js'],
+  databases: {
+    sql: ['PostgreSQL', 'MySQL'],
+    nosql: ['MongoDB'],
+    orm: ['Prisma', 'Drizzle', 'Mongoose']
+  },
+  cloud: ['Vercel', 'Neon']
+}
+```
+</details>
 
-**UI Frameworks**: 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<details>
+<summary>🛠️ Development Tools</summary>
 
----
+```javascript
+const tooling = {
+  editor: 'VSCode',
+  versionControl: 'Git',
+  containerization: 'Docker',
+  testing: ['Jest', 'React Testing Library'],
+  api: 'Postman'
+}
+```
+</details>
 
-## 🔧 Tools I Use
+## 📊 GitHub Analytics
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
-## 📈 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)](https://git.io/streak-stats)
 
-[comment]: <![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)>
+</div>
 
-[comment]: <![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)>
+## 🌟 Featured Projects
 
----
+<div align="center">
 
-## 📫 How to Reach Me
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-name&theme=tokyonight)](https://github.com/your-username/your-repo-name)
 
-- 🌐 [Portfolio](https://mehdad-portfolio.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehdad-hussain-38988725a/)
-- 🐦 [Twitter](https://twitter.com/)
-- 📧 Email: hussain.mehdad1@gmail.com
+</div>
 
----
+## 💭 Philosophy
 
-## 💡 Fun Facts
+- **Clean Code Advocate**: Believing in the power of readable, maintainable code
+- **Continuous Learner**: Always exploring new technologies and best practices
+- **Open Source Enthusiast**: Contributing to and learning from the community
 
-- I love exploring new tech and frameworks.
-- When I'm not coding, I enjoy reading tech blogs or contributing to open-source.
-- Favorite quote: "Code is like humor. When you have to explain it, it’s bad."
+## 📬 Let's Connect
 
----
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out through any of the platforms above!
 
-[comment]: <![footer](https://your-footer-image-link-here)>
+<div align="center">
+
+### "Building tomorrow's web, one commit at a time" 
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=38B2AC)
+
+</div>
+
+![Footer](./github-footer.svg)
