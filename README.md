@@ -18,7 +18,7 @@
 Passionate Full-Stack Developer specializing in building scalable, performant web applications. With expertise spanning the entire development stack, I craft elegant solutions that prioritize user experience and technical excellence.
 
 ### 🎓 Current Focus
-- Architecting applications with **Next.js 14 App Router**
+- Architecting applications with **Next.js 13, 14, 15**
 - Implementing **React Server Components** for optimal performance
 - Exploring AI/ML integrations using **OpenAI** and **LangChain**
 - Building robust backend systems with **Node.js** and **Go**
