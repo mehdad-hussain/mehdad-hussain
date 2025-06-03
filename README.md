@@ -55,7 +55,7 @@ const frontend = {
 ```javascript
 const backend = {
   runtime: ['Node.js', 'Go'],
-  frameworks: ['Hono.js'],
+  frameworks: ['Hono.js', 'Express JS', 'Nest JS'],
   databases: {
     sql: ['PostgreSQL', 'MySQL'],
     nosql: ['MongoDB'],
